@@ -13,7 +13,7 @@
      He/His
 - ⚡ Fun fact:
       I like geopolitics and history and I am interested in learning new languages
-🖥️-Languages & Technologies
+- 🖥️  Languages & Technologies
       Python: Experienced in writing clean and efficient Python code for a variety of applications.
       C: Proficient in C programming, with a strong understanding of low-level operations and memory management.
       JavaScript: Skilled in building interactive web applications and enhancing user experiences with JavaScript.
