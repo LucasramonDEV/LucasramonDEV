@@ -1,20 +1,37 @@
-- 👋 Hi there! I'm a passionate student at Cesar School with a growing interest in software development and programming. I enjoy exploring new technologies and solving problems through code.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning:
-      C: Continuing to deepen my knowledge and skills in C programming.
-      Java: Exploring Java for its versatility in building robust applications.
-      Salesforce Apex: Gaining expertise in Salesforce Apex for developing custom solutions on the Salesforce platform.
-  
-- 📫 How to reach me
-      Instagram : https://www.instagram.com/lucas_ramonos/
-      Discord : spr666
-      Gmail : lucasramons@gmail.com
-- 😄 Pronouns:
-     He/His
-- ⚡ Fun fact:
-      I like geopolitics and history and I am interested in learning new languages
-- 🖥️  Languages & Technologies
-      Python: Experienced in writing clean and efficient Python code for a variety of applications.
-      C: Proficient in C programming, with a strong understanding of low-level operations and memory management.
-      JavaScript: Skilled in building interactive web applications and enhancing user experiences with JavaScript.
-      HTML/CSS: Competent in creating well-structured and visually appealing web pages using HTML and CSS.
+# 👋 Hi! I'm Lucas Ramon 
+
+I am a Computer Science student at Cesar School (Class of 2027) in Recife, PE, and a Software Developer. I am passionate about solving complex problems through code, combining a strong academic foundation in software engineering with hands-on market experience, particularly in Cloud and Salesforce environments.
+
+### 🚀 About Me
+- **🔭 Currently focused on:** Developing scalable applications, software architecture, and deepening my knowledge in Cloud Computing ecosystems.
+- **💼 Experience & Education:** Former Salesforce Developer Intern at DreamXP and graduate of the DXP Training Camp 2024 (focused on employability and Salesforce solutions).
+- **🧠 Methodologies & Architecture:** Solid understanding of **Object-Oriented Programming (OOP)**, data structures, algorithms, memory management (thanks to C!), and software development best practices.
+- **🎯 Personal Goals:** Continuing to evolve as a global software engineer and delivering high-quality, impactful software.
+- **⚡ Fun Facts:** When I'm not coding, you can probably find me lifting weights at the gym and optimizing my workout routines, diving into books about geopolitics and history, or practicing my languages.
+
+### 💻 Skills and Technologies
+
+**Programming Languages**
+* `Python` | `C` | `Java` | `JavaScript` | `Apex`
+
+**Databases**
+* `SQL` | `SOQL` (Salesforce Object Query Language) | `Oracle RDBMS` | `Data Modeling`| `MySQL`
+
+**Cloud & Salesforce Ecosystem**
+* `Salesforce Platform` | `Marketing Cloud`
+* `Lightning Components` | `Flow Builder` | `Custom Objects` 
+
+**Web Development**
+* `HTML5` | `CSS3`
+
+**Languages**
+* 🇧🇷 **Portuguese:** Native
+* 🇺🇸 **English:** Professional Working Proficiency
+* 🇪🇸 **Spanish:** Professional Working Proficiency
+* 🇫🇷 **French:** A2 (Elementary)
+
+### 📫 Let's connect!
+- **Email:** lucasramons@gmail.com
+- **Discord:** spr666
+- **Instagram:** [@lucas_ramonos](https://www.instagram.com/lucas_ramonos/)
+- **LinkedIn:** [Insert your LinkedIn link here]
