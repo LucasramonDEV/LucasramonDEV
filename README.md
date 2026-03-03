@@ -34,4 +34,4 @@ I am a Computer Science student at Cesar School (Class of 2027) in Recife, PE, a
 - **Email:** lucasramons@gmail.com
 - **Discord:** spr666
 - **Instagram:** [@lucas_ramonos](https://www.instagram.com/lucas_ramonos/)
-- **LinkedIn:** [Insert your LinkedIn link here]
+- **LinkedIn:** [(https://www.linkedin.com/in/lucas-ramon-084818242/)]
