@@ -35,3 +35,4 @@ I am a Computer Science student at Cesar School (Class of 2027) in Recife, PE, a
 - **Discord:** spr666
 - **Instagram:** [@lucas_ramonos](https://www.instagram.com/lucas_ramonos/)
 - **LinkedIn:** [(https://www.linkedin.com/in/lucas-ramon-084818242/)]
+- **Trailhead:** [(https://www.salesforce.com/trailblazer/lramon4)]
